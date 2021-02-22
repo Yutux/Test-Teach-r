@@ -46,7 +46,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <TeachItem />
+    {/*<TeachItem /> */}
       <Carousel
         layout={'default'}
         layoutCardOffset={9}
